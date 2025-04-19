@@ -36,6 +36,33 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
 
+  get:
+  intl:
+  http:
+  shared_preferences:
+  lottie:
+  convert:
+  dartz:
+  animate_do:
+  cached_network_image:
+  better_player: ^0.0.83
+  flutter_cache_manager:
+  url_launcher:
+  font_awesome_flutter:
+  share_plus: 
+  path_provider:
+  package_info_plus:
+  wakelock:
+  uni_links:
+  country_code_picker:
+  image_picker: 
+  http_parser:
+  pin_code_fields: 
+  geolocator: ^8.2.0  
+  # location: ^4.4.0
+  carousel_slider:
+  photo_view:
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
